@@ -6,7 +6,7 @@
   "tags": [],
   "url": "https://github.com/dadadani/nim-random",
   "refs": [
-    "fatal: unable to access 'https://github.com/dadadani/nim-random/': Could not resolve host: github.com",
+    "fatal: unable to access 'https://github.com/dadadani/nim-random/': Failed to connect to github.com port 443 after 130420 ms: Connection timed out",
     ""
   ],
   "heads": []
